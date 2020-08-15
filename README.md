@@ -1,5 +1,7 @@
 # Radiomaster TX16S hardware mod, for enable R9M ACCESS protocol  <br> <br> Update: add firmware for Jumper T16 <br>
 Enable in Radiomaster TX16S - R9M ACCESS <br>
+See the source code and firmware releases in the repository https://github.com/cvetaevvitaliy/opentx branch RadiomasterTX16S_ACCESS
+
 Steps:<br>
 1. Flash modif FW for Radiomaster TX16S https://github.com/cvetaevvitaliy/Radiomaster_TX16S/raw/master/Firmware/Radiomaster_TX16S_R9M_ACCESS.bin <br>
 for Jumper T16 https://github.com/cvetaevvitaliy/Radiomaster_TX16S/raw/master/Firmware/Jumper_T16_R9M_ACCESS.bin <br>
